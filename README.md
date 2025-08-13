@@ -196,7 +196,7 @@ print(f"Test Accuracy: {accuracy}")
 
 > **Note**: The modest performance suggests room for improvement through hyperparameter tuning, data augmentation, or ensemble methods.
 
-## 📚 References
+## References
 
 - [BERT Paper](http://arxiv.org/abs/1810.04805) - Devlin et al., 2018
 - [Kaggle Competition](https://kaggle.com/competitions/fake-news) - Fake News Dataset
